@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fossé Restorative Therapy",
+    "description": "",
+    "home_page_url": "https://fossert.com",
+    "feed_url": "https://fossert.com/feed.json",
+    "user_comment": "",
+    "icon": "https://fossert.com/media/website/logo-long-revised-khaki-2.png",
+    "author": {
+        "name": "Nathalie Fossé"
+    },
+    "items": [
+        {
+            "id": "https://fossert.com/our-work.html",
+            "url": "https://fossert.com/our-work.html",
+            "title": "My Work",
+            "summary": "At Fossé Restorative Therapy (FRT) I do not believe that one protocol fits all. I believe each client is unique, thus I take in pride in designing each session for my clients’ unique needs. I plan the course of treatment and adapt each session by&hellip;",
+            "content_html": "<p class=\"align-left\">At Fossé Restorative Therapy (FRT) I do not believe that one protocol fits all. I believe each client is unique, thus I take in pride in designing each session for my clients’ unique needs.</p>\n<p>I plan the course of treatment and adapt each session by continually exploring my clients’ history. I discuss their health history, their physical and emotional traumas history, their life experiences, their professional and leisure activities as well as their life objectives and goals.</p>\n<p><strong>Our sessions can be a combination of:</strong></p>\n<ul>\n<li>manual therapy</li>\n<li>movement therapy</li>\n<li>neurology-based exercises</li>\n<li>life &amp; wellness coaching</li>\n</ul>\n<p><strong>And we use techniques like:</strong></p>\n<ul>\n<li>myofascial release</li>\n</ul>\n<p><strong>Myofascial release</strong> is gentle and sustained pressure applied to the fascia, the tissue that covers and connects all of our muscles, bones and organs, to allow them to glide smoothly with each other. It will help to improve movement, posture, and reduce pain.</p>\n<ul>\n<li>visceral manipulation (VM)</li>\n</ul>\n<p><strong>Viscera</strong> relates to the internal organs, such as the liver, kidneys, intestines, and lungs. VM is osteopathy based. It comprises passive and active manual therapy of fascia of the organs aiming to release structural restrictions, improve blood and lymphatic flows, and enhance organ function. VM also improves emotional balance and cognition.</p>\n<ul>\n<li>basic Ortho-Bionomy</li>\n</ul>\n<p><strong>Ortho-Bionomy</strong> is osteopathy based. It supports the body’s capacity to self-correcting and self-reguate without pain or force through the use of gentle movement and positioning of the body as well as light compression into the joints. It is a perfect technique for pain relief and to promote greater movement and structural realignment, relaxation, and increased sense wellbeing. The full spectrum of Ortho-bionomy includes working with joints, organs, lymph, fluids, neurology, and the endocrine system.</p>\n<ul>\n<li>craniosacral therapy (CST)</li>\n</ul>\n<p><strong>CST</strong> is osteopathy based. It consists of a deliberate placement of the hands on the cranium, sacrum and spine to optimize the cerebro-spinal fluid flow. This non-intrusive techniques is ideal to address headaches, TMJ, post-concussion symptoms, stroke, PTSD, anxiety and depression.</p>\n<ul>\n<li>neurology based exercises</li>\n</ul>\n<p><strong>Neurology</strong> based exercises engage the visual system (eye movements, convergence, divergence, peripheral vision), the vestibular (inner ear) system (head-eye movements, balance, bouncing), the proprioceptive system (joint sensory stimulation and mobility), and also the cranial, spinal and peripheral nerves.</p>\n<ul>\n<li>movement therapy</li>\n</ul>\n<p><strong>Movement therapy</strong> is the use of movements originating from yoga poses, yin yoga, or strength exercises, or functional movements, or respiration.</p>",
+            "image": "https://fossert.com/media/posts/1/shutterstock_171715400.jpg",
+            "author": {
+                "name": "Nathalie Fossé"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-08T16:28:34-04:00",
+            "date_modified": "2021-07-09T16:22:53-04:00"
+        }
+    ]
+}
